@@ -5,5 +5,5 @@
 https://www.tuasaude.com/calculadora/imc/
 
 # ➪ Fórmula utilizada:
-### ![img] [(https://user-images.githubusercontent.com/99364026/178127539-76d7117a-5332-4e90-b237-f387eb49dc31.png);
-](https://i.pinimg.com/564x/50/17/88/501788cf5e139dc7c1e9f473251ab777.jpg)
+# ![image](https://user-images.githubusercontent.com/99364026/178127624-92d45ca2-edbb-4c48-b282-fc599170dd0e.png)
+
