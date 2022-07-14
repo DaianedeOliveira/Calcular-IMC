@@ -46,8 +46,6 @@ body {
     color: #fdfdfd;
     text-align: center;
     
-
-
 }
 
 input {
@@ -105,4 +103,7 @@ button {
     margin-left: 28%;
 }
     
+.animate__animated{
+    font-size:22px;
+}
 }
